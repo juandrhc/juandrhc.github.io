@@ -13,7 +13,7 @@ A lightweight, responsive portfolio made using **HTML5, CSS3, and vanilla JavaSc
 1. **StreetGO** — custom HTML/CSS/JS and WordPress front-end.
 2. **Viva Drift** — browser game made with JavaScript, Three.js and Blender.
 3. **Alife Nino** — WordPress redevelopment, dynamic pages and navigation.
-4. **Obrabank** — client case study in preparation.
+4. **Obrabank** — [visit website](https://www.obrabank.com.br/) (client case study in preparation).
 5. **SeMudando** — responsive web development.
 6. **QR Code Generator** — private Flask/Python web application.
 7. **Renault Koleos** — pre-reservation UI prototype.
